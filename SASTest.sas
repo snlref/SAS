@@ -2,5 +2,4 @@
 
 data class;
     set sashelp.class;
-    ratio=height/weight;
 run;
