@@ -4,6 +4,7 @@
 =======
 /* Dit is een test naar Git 
 >>>>>>> Remote
+>>>>>>> Remote
 */
 
 data class;
